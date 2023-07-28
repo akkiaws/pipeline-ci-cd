@@ -1,4 +1,4 @@
-#!/bin/bash
+ygvygvczvbwerg#!/bin/bash
 
 # Create a user and group for the CI/CD process
 groupadd mygroup
